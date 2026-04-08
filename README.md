@@ -2,7 +2,7 @@
 Estudiante de Ingenieria Informatica
 
 
-## 🌐 Socials:
+## 🌐 Social Networks:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_juan.es11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valverdemorajuanesteban@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ Estudiante de Ingenieria Informatica
 ![](https://nirzak-streak-stats.vercel.app/?user=Juan-VM&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-VM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote from a Developer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
